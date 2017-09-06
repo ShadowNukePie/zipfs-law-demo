@@ -1,0 +1,6 @@
+c:\users\matt\documents\visual studio 2015\Projects\Zipfs Law Demo\Zipfs Law Demo\bin\Debug\Zipfs Law Demo.exe.config
+c:\users\matt\documents\visual studio 2015\Projects\Zipfs Law Demo\Zipfs Law Demo\bin\Debug\Zipfs Law Demo.exe
+c:\users\matt\documents\visual studio 2015\Projects\Zipfs Law Demo\Zipfs Law Demo\bin\Debug\Zipfs Law Demo.pdb
+c:\users\matt\documents\visual studio 2015\Projects\Zipfs Law Demo\Zipfs Law Demo\obj\Debug\Zipfs Law Demo.exe
+c:\users\matt\documents\visual studio 2015\Projects\Zipfs Law Demo\Zipfs Law Demo\obj\Debug\Zipfs Law Demo.pdb
+c:\users\matt\documents\visual studio 2015\Projects\Zipfs Law Demo\Zipfs Law Demo\obj\Debug\Zipfs Law Demo.csprojResolveAssemblyReference.cache
